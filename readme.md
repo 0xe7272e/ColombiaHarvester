@@ -1,4 +1,4 @@
-# Colombian Harvester !!!!
+# Colombian Data Harvester !!!!
 ![logo](img/logo.png)
 
 ## The main idea 
@@ -8,3 +8,5 @@ The idea of this project is to make a tool capable of collecting data from diffe
 It is difficult to know which news outlets are polarized in Colombia since the political landscape is very difficult to interpret, a good solution to do data analysis on Colombian news is to cover as many news outlets as possible.
 ## The project
 This project is done with the purpose of supporting and encouraging the analysis of Colombian data and with this understanding the history of the country from different perspectives, it is a project developed by a data analysis enthusiast, a hacker and a computer science student.
+### About the project
+This is a script fully made in python, using selenium and request libraries to get the data that is needed for the project.
