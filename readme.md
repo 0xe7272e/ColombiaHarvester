@@ -10,3 +10,13 @@ It is difficult to know which news outlets are polarized in Colombia since the p
 This project is done with the purpose of supporting and encouraging the analysis of Colombian data and with this understanding the history of the country from different perspectives, it is a project developed by a data analysis enthusiast, a hacker and a computer science student.
 ### About the project
 This is a script fully made in python, using selenium and request libraries to get the data that is needed for the project. The project is made for working in a CLI way with argparser and storing data in json format
+
+#### Colombian Newspapers to finish:
+1. El Tiempo 
+2. La Silla Vacía
+3. Ministry of Agriculture of Colombia
+4. page of the land restitution plan in Colombia
+5. Semana Newspaper
+6. Verdad Abierta
+
+#### Currently Available websites:
